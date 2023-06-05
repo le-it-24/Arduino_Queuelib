@@ -111,3 +111,10 @@ void Queue::display()
 
 
 }
+
+
+// Define: get pointer to queue.
+int * Queue::get_queuePointer()
+{
+    return queue;
+}

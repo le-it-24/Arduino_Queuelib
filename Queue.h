@@ -66,5 +66,10 @@ class Queue
     void display();
 
 
+/////////////////////////////////QUEUE CLASS GETTERS AND SETTERS///////////////////////////////
+
+
+  // Method to get pointer to queue.
+  int * get_queuePointer();
 };
 
